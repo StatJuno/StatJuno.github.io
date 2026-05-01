@@ -3,10 +3,9 @@
 = Research
 
 == Research Interests
-- Machine learning
-- Statistics
-- Statistical learning
-- Data science
+- Machine learning with Graphs
+- Statistical Machine Learning
 
-== Ongoing Focus
-I will update this page with detailed projects and publications soon.
+== Publications
+- **Joonho Kim** and Seyoung Park. *Transfer Learning in High-dimensional Ising Models*. 
+  To appear in International Conference on Machine Learning (ICML), 2026.
