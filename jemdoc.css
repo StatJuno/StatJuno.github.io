@@ -365,6 +365,9 @@ tr.heading {
 table.profile-header {
 	border: none;
 	border-collapse: separate;
+	border-spacing: 0;
+	width: 100%;
+	max-width: 720px;
 	margin-top: 0.4em;
 	margin-bottom: 1.0em;
 }
@@ -377,33 +380,37 @@ table.profile-header td {
 }
 
 td.profile-photo {
-	padding-right: 1.4em;
+	width: 150px;
+	padding-right: 1.9em;
 	vertical-align: top;
 }
 
 td.profile-photo img {
-	width: 125px;
+	width: 150px;
 	height: auto;
 	border-radius: 8px;
 }
 
 td.profile-meta h2 {
 	margin-top: 0;
-	margin-bottom: 0.25em;
+	margin-bottom: 0.18em;
+	padding-top: 0;
+	padding-bottom: 0.08em;
+	border-bottom: none;
 }
 
 td.profile-meta {
-	padding-top: 0.25em;
+	padding-top: 0.18em;
 }
 
 td.profile-meta ul {
-	margin-top: 0.45em;
+	margin-top: 0.35em;
 	margin-bottom: 0;
-	padding-left: 1.1em;
+	padding-left: 1.0em;
 }
 
 td.profile-meta p {
-	margin-bottom: 0.35em;
+	margin-bottom: 0.28em;
 }
 
 img {
