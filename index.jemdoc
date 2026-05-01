@@ -10,9 +10,9 @@
     </td>
     <td class="profile-meta">
       <h2>Joonho (Juno) Kim</h2>
-      <p>Ph.D. Student, KAIST AI</p>
+      <p>Ph.D. Student, <a href="https://gsai.kaist.ac.kr/">KAIST AI</a></p>
       <ul>
-        <li><a href="mailto:joonhokim@kaist.ac.kr">Email</a></li>
+        <li>E-mail: joonhokim (AT) kaist (DOT) ac (DOT) kr</li>
         <li><a href="https://github.com/StatJuno">GitHub</a></li>
         <li><a href="https://www.linkedin.com/in/joonho-kim-8b23a42b5">LinkedIn</a></li>
       </ul>
@@ -22,8 +22,8 @@
 }}
 
 == About me
-I am a Ph.D. student in Artificial Intelligence at Korea Advanced Institute of Science and Technology (KAIST), advised by Prof. Kijung Shin.
+I am a Ph.D. student in [https://gsai.kaist.ac.kr/ The Kim Jaechul Graduate School of AI] at [https://www.kaist.ac.kr/en/ Korea Advanced Institute of Science and Technology (KAIST)], advised by [https://kijungs.github.io/ Prof. Kijung Shin] at [https://sites.google.com/view/kaistdata Data Mining Lab].
 
-Previously, I received my M.S. in Statistics and Data Science and B.A. in Applied Statistics from Yonsei University, where I was advised by Prof. Seyoung Park.
+I received my M.S. in [https://devcms.yonsei.ac.kr/stat_en/index.do Statistics and Data Science] and B.A. in [https://devcms.yonsei.ac.kr/stat_en/index.do Applied Statistics] from [https://www.yonsei.ac.kr/sc/index.do Yonsei University], where I was advised by [https://sites.google.com/view/seyoungpark/home Prof. Seyoung Park].
 
 My primary research interests lie at the intersection of machine learning and statistics, especially in graph-based applications.
