@@ -3,22 +3,20 @@
 = Home
 
 {{
-<table class="profile-header">
-  <tr>
-    <td class="profile-photo">
-      <img src="image/image.png" alt="Joonho Kim" />
-    </td>
-    <td class="profile-meta">
-      <h2>Joonho (Juno) Kim</h2>
-      <p>Ph.D. Student, <a href="https://gsai.kaist.ac.kr/">KAIST AI</a></p>
-      <ul>
-        <li>E-mail: joonhokim (AT) kaist (DOT) ac (DOT) kr</li>
-        <li><a href="https://github.com/StatJuno">GitHub</a></li>
-        <li><a href="https://www.linkedin.com/in/joonho-kim-8b23a42b5">LinkedIn</a></li>
-      </ul>
-    </td>
-  </tr>
-</table>
+<div class="profile-header">
+  <div class="profile-photo">
+    <img src="image/image.png" alt="Joonho Kim" />
+  </div>
+  <div class="profile-meta">
+    <h2>Joonho (Juno) Kim</h2>
+    <p>Ph.D. Student, <a href="https://gsai.kaist.ac.kr/">KAIST AI</a></p>
+    <ul>
+      <li>Email: joonhokim (AT) kaist (DOT) ac (DOT) kr</li>
+      <li><a href="https://github.com/StatJuno">GitHub</a></li>
+      <li><a href="https://www.linkedin.com/in/joonho-kim-8b23a42b5">LinkedIn</a></li>
+    </ul>
+  </div>
+</div>
 }}
 
 == About me

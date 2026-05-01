@@ -362,36 +362,33 @@ tr.heading {
 	border-bottom: 2px solid black;
 }
 
-table.profile-header {
-	border: none;
-	border-collapse: separate;
-	border-spacing: 0;
+.profile-header {
+	display: flex;
+	align-items: flex-start;
+	gap: 2.1em;
 	width: 100%;
 	max-width: 720px;
 	margin-top: 0.4em;
 	margin-bottom: 1.0em;
 }
 
-table.profile-header td {
-	border: none;
-	text-align: left;
-	vertical-align: top;
-	padding: 0;
-}
-
-td.profile-photo {
+.profile-photo {
 	width: 150px;
-	padding-right: 1.9em;
-	vertical-align: top;
+	flex: 0 0 150px;
 }
 
-td.profile-photo img {
+.profile-photo img {
 	width: 150px;
 	height: auto;
 	border-radius: 8px;
+	display: block;
 }
 
-td.profile-meta h2 {
+.profile-meta {
+	padding-top: 0.12em;
+}
+
+.profile-meta h2 {
 	margin-top: 0;
 	margin-bottom: 0.18em;
 	padding-top: 0;
@@ -399,17 +396,13 @@ td.profile-meta h2 {
 	border-bottom: none;
 }
 
-td.profile-meta {
-	padding-top: 0.18em;
-}
-
-td.profile-meta ul {
+.profile-meta ul {
 	margin-top: 0.35em;
 	margin-bottom: 0;
 	padding-left: 1.0em;
 }
 
-td.profile-meta p {
+.profile-meta p {
 	margin-bottom: 0.28em;
 }
 
