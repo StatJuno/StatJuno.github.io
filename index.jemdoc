@@ -2,14 +2,28 @@
 
 = Home
 
+{{
+<table class="profile-header">
+  <tr>
+    <td class="profile-photo">
+      <img src="image/image.png" alt="Joonho Kim" />
+    </td>
+    <td class="profile-meta">
+      <h2>Joonho (Juno) Kim</h2>
+      <p>Ph.D. Student, KAIST AI</p>
+      <ul>
+        <li><a href="mailto:joonhokim@kaist.ac.kr">Email</a></li>
+        <li><a href="https://github.com/StatJuno">GitHub</a></li>
+        <li><a href="https://www.linkedin.com/in/joonho-kim-8b23a42b5">LinkedIn</a></li>
+      </ul>
+    </td>
+  </tr>
+</table>
+}}
+
 == About me
 I am a Ph.D. student in Artificial Intelligence at Korea Advanced Institute of Science and Technology (KAIST), advised by Prof. Kijung Shin.
 
 Previously, I received my M.S. in Statistics and Data Science and B.A. in Applied Statistics from Yonsei University, where I was advised by Prof. Seyoung Park.
 
 My primary research interests lie at the intersection of machine learning and statistics, especially in graph-based applications.
-
-== Links
-- Email: [mailto:joonhokim@kaist.ac.kr joonhokim@kaist.ac.kr]
-- [https://github.com/StatJuno GitHub]
-- [https://www.linkedin.com/in/joonho-kim-8b23a42b5 LinkedIn]

@@ -362,6 +362,39 @@ tr.heading {
 	border-bottom: 2px solid black;
 }
 
+table.profile-header {
+	border: none;
+	border-collapse: separate;
+	margin-top: 0.4em;
+	margin-bottom: 1.0em;
+}
+
+table.profile-header td {
+	border: none;
+	text-align: left;
+	vertical-align: top;
+	padding: 0;
+}
+
+td.profile-photo {
+	padding-right: 1.2em;
+}
+
+td.profile-photo img {
+	width: 170px;
+	height: auto;
+	border-radius: 8px;
+}
+
+td.profile-meta h2 {
+	margin-top: 0;
+}
+
+td.profile-meta ul {
+	margin-top: 0.4em;
+	margin-bottom: 0;
+}
+
 img {
 	border: none;
 }
