@@ -377,11 +377,11 @@ table.profile-header td {
 }
 
 td.profile-photo {
-	padding-right: 1.2em;
+	padding-right: 0.9em;
 }
 
 td.profile-photo img {
-	width: 170px;
+	width: 125px;
 	height: auto;
 	border-radius: 8px;
 }
